@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/liss329/nodecli#readme",
   "dependencies": {
-    "commander": "5.0"
+    "commander": "5.0",
+    "marked": "^4.0.10"
   }
 }
